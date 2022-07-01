@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwJqFjlCLT7wPdh8vcXMMCR6Nezmb8pwxqm6GM+CXCwqW3uEHBGaVpqfNAl3tWtum7INQcp8BUWERdl9YsRBug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David.udensi\\source\\repos\\KafkaTest1\\KafkaTest1\\KafkaTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David.udensi\\.nuget\\packages\\confluent.kafka\\1.9.0\\confluent.kafka.1.9.0.nupkg.sha512",
+    "C:\\Users\\David.udensi\\.nuget\\packages\\librdkafka.redist\\1.9.0\\librdkafka.redist.1.9.0.nupkg.sha512",
+    "C:\\Users\\David.udensi\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
